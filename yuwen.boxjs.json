@@ -1,0 +1,41 @@
+{
+  "id": "yuwen.script.sub",
+  "name": "yuwenztxtop 自用脚本订阅",
+  "author": "@ztxtop",
+  "icon": "https://avatars3.githubusercontent.com/u/52337422?s=460&u=0aa6057c2af304d742d20b3b865c34f2902ad5c1&v=4",
+  "repo": "https://github.com/a358594784",
+  "apps": [
+    {
+      "id": "kuaishou",
+      "name": "快手极速版",
+      "author": "@sunert",
+      "keys": ["ksjsbCookie", "ksjsbCookie"],
+      "descs_html": [
+        "多账号ck脚本地址【<a href=\"https://raw.githubusercontent.com/ztxtop/x/main/NE.cookie.js\">Cookie采集器</a>】",
+        "注：NE工具中直接执行脚本将移除重复的Cookie"
+      ],
+      "settings": [{
+        "id": "ksjsbCookie",
+        "name": "账号1",
+        "val": "",
+        "type": "text",
+        "desc": "快手账号1 Cookie"
+      }, {
+        "id": "ksjsbCookie",
+        "name": "CK 列表",
+        "val": "",
+        "type": "textarea",
+        "autoGrow": true,
+        "rows": 8,
+        "desc": "快手扩展CK 列表 (JSON 格式)"
+      }],
+      "repo": "https://raw.githubusercontent.com/a358594784/jd_scripts/master/ksjsb.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/kuaishou.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/kuaishou.png"],
+      "script": "https://raw.githubusercontent.com/a358594784/jd_scripts/master/ksjsb.js"
+    }],
+      "repo": "https://gitee.com/Sunert/Scripts/blob/master/Task/NE.cookie.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/jd.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"],
+      "script": "https://raw.githubusercontent.com/ztxtop/x/main/NE.cookie.js"
+    }
+  ]
+}
