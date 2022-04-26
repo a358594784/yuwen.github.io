@@ -29,9 +29,9 @@
         "rows": 8,
         "desc": "快手扩展CK 列表 (JSON 格式)"
       }],
-      "repo": "https://raw.githubusercontent.com/a358594784/jd_scripts/master/ksjsb.js",
+      "repo": "https://raw.githubusercontent.com/a358594784/yuwen.github.io/main/ksjsb.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/kuaishou.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/kuaishou.png"],
-      "script": "https://raw.githubusercontent.com/a358594784/jd_scripts/master/ksjsb.js"
+      "script": "https://raw.githubusercontent.com/a358594784/yuwen.github.io/main/ksjsb.js"
     }],
       "repo": "https://gitee.com/Sunert/Scripts/blob/master/Task/NE.cookie.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/jd.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"],
